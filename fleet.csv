@@ -1,0 +1,1001 @@
+truck_id,truck_type,max_weight_kg,max_volume_m3,cost_per_km,co2_per_km
+T1,Medium Truck,1800,9,35,0.95
+T2,Medium Truck,1800,9,35,0.95
+T3,Container,4000,20,60,1.8
+T4,Mini Truck,1200,6,28,0.75
+T5,Container,4000,20,60,1.8
+T6,Medium Truck,1800,9,35,0.95
+T7,Container,4000,20,60,1.8
+T8,Mini Truck,1200,6,28,0.75
+T9,Medium Truck,1800,9,35,0.95
+T10,Medium Truck,1800,9,35,0.95
+T11,Mini Truck,1200,6,28,0.75
+T12,Mini Truck,1200,6,28,0.75
+T13,Mini Truck,1200,6,28,0.75
+T14,Medium Truck,1800,9,35,0.95
+T15,Heavy Truck,2500,12,45,1.2
+T16,Container,4000,20,60,1.8
+T17,Container,4000,20,60,1.8
+T18,Container,4000,20,60,1.8
+T19,Mini Truck,1200,6,28,0.75
+T20,Heavy Truck,2500,12,45,1.2
+T21,Heavy Truck,2500,12,45,1.2
+T22,Heavy Truck,2500,12,45,1.2
+T23,Mini Truck,1200,6,28,0.75
+T24,Mini Truck,1200,6,28,0.75
+T25,Mini Truck,1200,6,28,0.75
+T26,Container,4000,20,60,1.8
+T27,Container,4000,20,60,1.8
+T28,Container,4000,20,60,1.8
+T29,Container,4000,20,60,1.8
+T30,Heavy Truck,2500,12,45,1.2
+T31,Mini Truck,1200,6,28,0.75
+T32,Heavy Truck,2500,12,45,1.2
+T33,Container,4000,20,60,1.8
+T34,Heavy Truck,2500,12,45,1.2
+T35,Heavy Truck,2500,12,45,1.2
+T36,Mini Truck,1200,6,28,0.75
+T37,Medium Truck,1800,9,35,0.95
+T38,Container,4000,20,60,1.8
+T39,Heavy Truck,2500,12,45,1.2
+T40,Heavy Truck,2500,12,45,1.2
+T41,Mini Truck,1200,6,28,0.75
+T42,Container,4000,20,60,1.8
+T43,Medium Truck,1800,9,35,0.95
+T44,Heavy Truck,2500,12,45,1.2
+T45,Mini Truck,1200,6,28,0.75
+T46,Mini Truck,1200,6,28,0.75
+T47,Heavy Truck,2500,12,45,1.2
+T48,Mini Truck,1200,6,28,0.75
+T49,Heavy Truck,2500,12,45,1.2
+T50,Container,4000,20,60,1.8
+T51,Mini Truck,1200,6,28,0.75
+T52,Medium Truck,1800,9,35,0.95
+T53,Heavy Truck,2500,12,45,1.2
+T54,Container,4000,20,60,1.8
+T55,Heavy Truck,2500,12,45,1.2
+T56,Heavy Truck,2500,12,45,1.2
+T57,Mini Truck,1200,6,28,0.75
+T58,Mini Truck,1200,6,28,0.75
+T59,Heavy Truck,2500,12,45,1.2
+T60,Heavy Truck,2500,12,45,1.2
+T61,Container,4000,20,60,1.8
+T62,Medium Truck,1800,9,35,0.95
+T63,Mini Truck,1200,6,28,0.75
+T64,Medium Truck,1800,9,35,0.95
+T65,Container,4000,20,60,1.8
+T66,Mini Truck,1200,6,28,0.75
+T67,Heavy Truck,2500,12,45,1.2
+T68,Container,4000,20,60,1.8
+T69,Mini Truck,1200,6,28,0.75
+T70,Medium Truck,1800,9,35,0.95
+T71,Heavy Truck,2500,12,45,1.2
+T72,Mini Truck,1200,6,28,0.75
+T73,Mini Truck,1200,6,28,0.75
+T74,Heavy Truck,2500,12,45,1.2
+T75,Medium Truck,1800,9,35,0.95
+T76,Heavy Truck,2500,12,45,1.2
+T77,Mini Truck,1200,6,28,0.75
+T78,Mini Truck,1200,6,28,0.75
+T79,Heavy Truck,2500,12,45,1.2
+T80,Medium Truck,1800,9,35,0.95
+T81,Container,4000,20,60,1.8
+T82,Heavy Truck,2500,12,45,1.2
+T83,Heavy Truck,2500,12,45,1.2
+T84,Container,4000,20,60,1.8
+T85,Heavy Truck,2500,12,45,1.2
+T86,Heavy Truck,2500,12,45,1.2
+T87,Mini Truck,1200,6,28,0.75
+T88,Medium Truck,1800,9,35,0.95
+T89,Mini Truck,1200,6,28,0.75
+T90,Heavy Truck,2500,12,45,1.2
+T91,Heavy Truck,2500,12,45,1.2
+T92,Medium Truck,1800,9,35,0.95
+T93,Heavy Truck,2500,12,45,1.2
+T94,Container,4000,20,60,1.8
+T95,Heavy Truck,2500,12,45,1.2
+T96,Mini Truck,1200,6,28,0.75
+T97,Mini Truck,1200,6,28,0.75
+T98,Container,4000,20,60,1.8
+T99,Medium Truck,1800,9,35,0.95
+T100,Heavy Truck,2500,12,45,1.2
+T101,Heavy Truck,2500,12,45,1.2
+T102,Mini Truck,1200,6,28,0.75
+T103,Medium Truck,1800,9,35,0.95
+T104,Container,4000,20,60,1.8
+T105,Mini Truck,1200,6,28,0.75
+T106,Mini Truck,1200,6,28,0.75
+T107,Medium Truck,1800,9,35,0.95
+T108,Medium Truck,1800,9,35,0.95
+T109,Heavy Truck,2500,12,45,1.2
+T110,Mini Truck,1200,6,28,0.75
+T111,Container,4000,20,60,1.8
+T112,Container,4000,20,60,1.8
+T113,Container,4000,20,60,1.8
+T114,Mini Truck,1200,6,28,0.75
+T115,Container,4000,20,60,1.8
+T116,Mini Truck,1200,6,28,0.75
+T117,Medium Truck,1800,9,35,0.95
+T118,Medium Truck,1800,9,35,0.95
+T119,Mini Truck,1200,6,28,0.75
+T120,Heavy Truck,2500,12,45,1.2
+T121,Container,4000,20,60,1.8
+T122,Container,4000,20,60,1.8
+T123,Medium Truck,1800,9,35,0.95
+T124,Heavy Truck,2500,12,45,1.2
+T125,Mini Truck,1200,6,28,0.75
+T126,Container,4000,20,60,1.8
+T127,Medium Truck,1800,9,35,0.95
+T128,Mini Truck,1200,6,28,0.75
+T129,Medium Truck,1800,9,35,0.95
+T130,Container,4000,20,60,1.8
+T131,Medium Truck,1800,9,35,0.95
+T132,Mini Truck,1200,6,28,0.75
+T133,Container,4000,20,60,1.8
+T134,Container,4000,20,60,1.8
+T135,Medium Truck,1800,9,35,0.95
+T136,Container,4000,20,60,1.8
+T137,Medium Truck,1800,9,35,0.95
+T138,Mini Truck,1200,6,28,0.75
+T139,Medium Truck,1800,9,35,0.95
+T140,Heavy Truck,2500,12,45,1.2
+T141,Medium Truck,1800,9,35,0.95
+T142,Medium Truck,1800,9,35,0.95
+T143,Container,4000,20,60,1.8
+T144,Container,4000,20,60,1.8
+T145,Mini Truck,1200,6,28,0.75
+T146,Mini Truck,1200,6,28,0.75
+T147,Container,4000,20,60,1.8
+T148,Container,4000,20,60,1.8
+T149,Mini Truck,1200,6,28,0.75
+T150,Mini Truck,1200,6,28,0.75
+T151,Medium Truck,1800,9,35,0.95
+T152,Medium Truck,1800,9,35,0.95
+T153,Container,4000,20,60,1.8
+T154,Medium Truck,1800,9,35,0.95
+T155,Heavy Truck,2500,12,45,1.2
+T156,Container,4000,20,60,1.8
+T157,Mini Truck,1200,6,28,0.75
+T158,Mini Truck,1200,6,28,0.75
+T159,Mini Truck,1200,6,28,0.75
+T160,Mini Truck,1200,6,28,0.75
+T161,Heavy Truck,2500,12,45,1.2
+T162,Heavy Truck,2500,12,45,1.2
+T163,Heavy Truck,2500,12,45,1.2
+T164,Container,4000,20,60,1.8
+T165,Medium Truck,1800,9,35,0.95
+T166,Heavy Truck,2500,12,45,1.2
+T167,Medium Truck,1800,9,35,0.95
+T168,Mini Truck,1200,6,28,0.75
+T169,Heavy Truck,2500,12,45,1.2
+T170,Heavy Truck,2500,12,45,1.2
+T171,Container,4000,20,60,1.8
+T172,Medium Truck,1800,9,35,0.95
+T173,Mini Truck,1200,6,28,0.75
+T174,Mini Truck,1200,6,28,0.75
+T175,Container,4000,20,60,1.8
+T176,Mini Truck,1200,6,28,0.75
+T177,Container,4000,20,60,1.8
+T178,Mini Truck,1200,6,28,0.75
+T179,Heavy Truck,2500,12,45,1.2
+T180,Container,4000,20,60,1.8
+T181,Heavy Truck,2500,12,45,1.2
+T182,Container,4000,20,60,1.8
+T183,Mini Truck,1200,6,28,0.75
+T184,Medium Truck,1800,9,35,0.95
+T185,Container,4000,20,60,1.8
+T186,Container,4000,20,60,1.8
+T187,Mini Truck,1200,6,28,0.75
+T188,Heavy Truck,2500,12,45,1.2
+T189,Container,4000,20,60,1.8
+T190,Mini Truck,1200,6,28,0.75
+T191,Mini Truck,1200,6,28,0.75
+T192,Heavy Truck,2500,12,45,1.2
+T193,Container,4000,20,60,1.8
+T194,Heavy Truck,2500,12,45,1.2
+T195,Container,4000,20,60,1.8
+T196,Heavy Truck,2500,12,45,1.2
+T197,Medium Truck,1800,9,35,0.95
+T198,Container,4000,20,60,1.8
+T199,Medium Truck,1800,9,35,0.95
+T200,Container,4000,20,60,1.8
+T201,Mini Truck,1200,6,28,0.75
+T202,Heavy Truck,2500,12,45,1.2
+T203,Medium Truck,1800,9,35,0.95
+T204,Heavy Truck,2500,12,45,1.2
+T205,Heavy Truck,2500,12,45,1.2
+T206,Mini Truck,1200,6,28,0.75
+T207,Container,4000,20,60,1.8
+T208,Mini Truck,1200,6,28,0.75
+T209,Medium Truck,1800,9,35,0.95
+T210,Container,4000,20,60,1.8
+T211,Mini Truck,1200,6,28,0.75
+T212,Mini Truck,1200,6,28,0.75
+T213,Container,4000,20,60,1.8
+T214,Mini Truck,1200,6,28,0.75
+T215,Medium Truck,1800,9,35,0.95
+T216,Container,4000,20,60,1.8
+T217,Mini Truck,1200,6,28,0.75
+T218,Container,4000,20,60,1.8
+T219,Mini Truck,1200,6,28,0.75
+T220,Mini Truck,1200,6,28,0.75
+T221,Medium Truck,1800,9,35,0.95
+T222,Container,4000,20,60,1.8
+T223,Container,4000,20,60,1.8
+T224,Container,4000,20,60,1.8
+T225,Container,4000,20,60,1.8
+T226,Container,4000,20,60,1.8
+T227,Heavy Truck,2500,12,45,1.2
+T228,Container,4000,20,60,1.8
+T229,Mini Truck,1200,6,28,0.75
+T230,Container,4000,20,60,1.8
+T231,Heavy Truck,2500,12,45,1.2
+T232,Heavy Truck,2500,12,45,1.2
+T233,Heavy Truck,2500,12,45,1.2
+T234,Heavy Truck,2500,12,45,1.2
+T235,Container,4000,20,60,1.8
+T236,Mini Truck,1200,6,28,0.75
+T237,Heavy Truck,2500,12,45,1.2
+T238,Mini Truck,1200,6,28,0.75
+T239,Heavy Truck,2500,12,45,1.2
+T240,Heavy Truck,2500,12,45,1.2
+T241,Heavy Truck,2500,12,45,1.2
+T242,Mini Truck,1200,6,28,0.75
+T243,Mini Truck,1200,6,28,0.75
+T244,Heavy Truck,2500,12,45,1.2
+T245,Mini Truck,1200,6,28,0.75
+T246,Mini Truck,1200,6,28,0.75
+T247,Heavy Truck,2500,12,45,1.2
+T248,Mini Truck,1200,6,28,0.75
+T249,Container,4000,20,60,1.8
+T250,Medium Truck,1800,9,35,0.95
+T251,Mini Truck,1200,6,28,0.75
+T252,Medium Truck,1800,9,35,0.95
+T253,Container,4000,20,60,1.8
+T254,Medium Truck,1800,9,35,0.95
+T255,Heavy Truck,2500,12,45,1.2
+T256,Heavy Truck,2500,12,45,1.2
+T257,Container,4000,20,60,1.8
+T258,Mini Truck,1200,6,28,0.75
+T259,Medium Truck,1800,9,35,0.95
+T260,Container,4000,20,60,1.8
+T261,Container,4000,20,60,1.8
+T262,Mini Truck,1200,6,28,0.75
+T263,Container,4000,20,60,1.8
+T264,Mini Truck,1200,6,28,0.75
+T265,Medium Truck,1800,9,35,0.95
+T266,Medium Truck,1800,9,35,0.95
+T267,Mini Truck,1200,6,28,0.75
+T268,Heavy Truck,2500,12,45,1.2
+T269,Heavy Truck,2500,12,45,1.2
+T270,Container,4000,20,60,1.8
+T271,Heavy Truck,2500,12,45,1.2
+T272,Medium Truck,1800,9,35,0.95
+T273,Mini Truck,1200,6,28,0.75
+T274,Medium Truck,1800,9,35,0.95
+T275,Heavy Truck,2500,12,45,1.2
+T276,Heavy Truck,2500,12,45,1.2
+T277,Container,4000,20,60,1.8
+T278,Medium Truck,1800,9,35,0.95
+T279,Medium Truck,1800,9,35,0.95
+T280,Heavy Truck,2500,12,45,1.2
+T281,Mini Truck,1200,6,28,0.75
+T282,Medium Truck,1800,9,35,0.95
+T283,Container,4000,20,60,1.8
+T284,Container,4000,20,60,1.8
+T285,Mini Truck,1200,6,28,0.75
+T286,Mini Truck,1200,6,28,0.75
+T287,Heavy Truck,2500,12,45,1.2
+T288,Medium Truck,1800,9,35,0.95
+T289,Heavy Truck,2500,12,45,1.2
+T290,Mini Truck,1200,6,28,0.75
+T291,Mini Truck,1200,6,28,0.75
+T292,Medium Truck,1800,9,35,0.95
+T293,Container,4000,20,60,1.8
+T294,Heavy Truck,2500,12,45,1.2
+T295,Container,4000,20,60,1.8
+T296,Mini Truck,1200,6,28,0.75
+T297,Container,4000,20,60,1.8
+T298,Heavy Truck,2500,12,45,1.2
+T299,Container,4000,20,60,1.8
+T300,Mini Truck,1200,6,28,0.75
+T301,Mini Truck,1200,6,28,0.75
+T302,Medium Truck,1800,9,35,0.95
+T303,Mini Truck,1200,6,28,0.75
+T304,Medium Truck,1800,9,35,0.95
+T305,Container,4000,20,60,1.8
+T306,Heavy Truck,2500,12,45,1.2
+T307,Container,4000,20,60,1.8
+T308,Mini Truck,1200,6,28,0.75
+T309,Container,4000,20,60,1.8
+T310,Container,4000,20,60,1.8
+T311,Mini Truck,1200,6,28,0.75
+T312,Mini Truck,1200,6,28,0.75
+T313,Medium Truck,1800,9,35,0.95
+T314,Heavy Truck,2500,12,45,1.2
+T315,Mini Truck,1200,6,28,0.75
+T316,Mini Truck,1200,6,28,0.75
+T317,Mini Truck,1200,6,28,0.75
+T318,Container,4000,20,60,1.8
+T319,Container,4000,20,60,1.8
+T320,Medium Truck,1800,9,35,0.95
+T321,Container,4000,20,60,1.8
+T322,Medium Truck,1800,9,35,0.95
+T323,Mini Truck,1200,6,28,0.75
+T324,Container,4000,20,60,1.8
+T325,Container,4000,20,60,1.8
+T326,Heavy Truck,2500,12,45,1.2
+T327,Container,4000,20,60,1.8
+T328,Mini Truck,1200,6,28,0.75
+T329,Container,4000,20,60,1.8
+T330,Medium Truck,1800,9,35,0.95
+T331,Mini Truck,1200,6,28,0.75
+T332,Medium Truck,1800,9,35,0.95
+T333,Medium Truck,1800,9,35,0.95
+T334,Container,4000,20,60,1.8
+T335,Heavy Truck,2500,12,45,1.2
+T336,Container,4000,20,60,1.8
+T337,Mini Truck,1200,6,28,0.75
+T338,Container,4000,20,60,1.8
+T339,Heavy Truck,2500,12,45,1.2
+T340,Heavy Truck,2500,12,45,1.2
+T341,Mini Truck,1200,6,28,0.75
+T342,Heavy Truck,2500,12,45,1.2
+T343,Mini Truck,1200,6,28,0.75
+T344,Container,4000,20,60,1.8
+T345,Medium Truck,1800,9,35,0.95
+T346,Mini Truck,1200,6,28,0.75
+T347,Heavy Truck,2500,12,45,1.2
+T348,Heavy Truck,2500,12,45,1.2
+T349,Heavy Truck,2500,12,45,1.2
+T350,Mini Truck,1200,6,28,0.75
+T351,Heavy Truck,2500,12,45,1.2
+T352,Medium Truck,1800,9,35,0.95
+T353,Container,4000,20,60,1.8
+T354,Mini Truck,1200,6,28,0.75
+T355,Mini Truck,1200,6,28,0.75
+T356,Mini Truck,1200,6,28,0.75
+T357,Heavy Truck,2500,12,45,1.2
+T358,Mini Truck,1200,6,28,0.75
+T359,Medium Truck,1800,9,35,0.95
+T360,Medium Truck,1800,9,35,0.95
+T361,Medium Truck,1800,9,35,0.95
+T362,Heavy Truck,2500,12,45,1.2
+T363,Container,4000,20,60,1.8
+T364,Container,4000,20,60,1.8
+T365,Container,4000,20,60,1.8
+T366,Mini Truck,1200,6,28,0.75
+T367,Mini Truck,1200,6,28,0.75
+T368,Medium Truck,1800,9,35,0.95
+T369,Medium Truck,1800,9,35,0.95
+T370,Heavy Truck,2500,12,45,1.2
+T371,Medium Truck,1800,9,35,0.95
+T372,Container,4000,20,60,1.8
+T373,Medium Truck,1800,9,35,0.95
+T374,Container,4000,20,60,1.8
+T375,Medium Truck,1800,9,35,0.95
+T376,Container,4000,20,60,1.8
+T377,Mini Truck,1200,6,28,0.75
+T378,Container,4000,20,60,1.8
+T379,Mini Truck,1200,6,28,0.75
+T380,Mini Truck,1200,6,28,0.75
+T381,Mini Truck,1200,6,28,0.75
+T382,Container,4000,20,60,1.8
+T383,Heavy Truck,2500,12,45,1.2
+T384,Heavy Truck,2500,12,45,1.2
+T385,Heavy Truck,2500,12,45,1.2
+T386,Medium Truck,1800,9,35,0.95
+T387,Container,4000,20,60,1.8
+T388,Heavy Truck,2500,12,45,1.2
+T389,Container,4000,20,60,1.8
+T390,Medium Truck,1800,9,35,0.95
+T391,Mini Truck,1200,6,28,0.75
+T392,Container,4000,20,60,1.8
+T393,Container,4000,20,60,1.8
+T394,Mini Truck,1200,6,28,0.75
+T395,Container,4000,20,60,1.8
+T396,Container,4000,20,60,1.8
+T397,Medium Truck,1800,9,35,0.95
+T398,Heavy Truck,2500,12,45,1.2
+T399,Mini Truck,1200,6,28,0.75
+T400,Container,4000,20,60,1.8
+T401,Mini Truck,1200,6,28,0.75
+T402,Medium Truck,1800,9,35,0.95
+T403,Mini Truck,1200,6,28,0.75
+T404,Mini Truck,1200,6,28,0.75
+T405,Heavy Truck,2500,12,45,1.2
+T406,Heavy Truck,2500,12,45,1.2
+T407,Heavy Truck,2500,12,45,1.2
+T408,Container,4000,20,60,1.8
+T409,Heavy Truck,2500,12,45,1.2
+T410,Medium Truck,1800,9,35,0.95
+T411,Heavy Truck,2500,12,45,1.2
+T412,Heavy Truck,2500,12,45,1.2
+T413,Heavy Truck,2500,12,45,1.2
+T414,Container,4000,20,60,1.8
+T415,Container,4000,20,60,1.8
+T416,Heavy Truck,2500,12,45,1.2
+T417,Medium Truck,1800,9,35,0.95
+T418,Mini Truck,1200,6,28,0.75
+T419,Mini Truck,1200,6,28,0.75
+T420,Container,4000,20,60,1.8
+T421,Container,4000,20,60,1.8
+T422,Container,4000,20,60,1.8
+T423,Container,4000,20,60,1.8
+T424,Medium Truck,1800,9,35,0.95
+T425,Heavy Truck,2500,12,45,1.2
+T426,Mini Truck,1200,6,28,0.75
+T427,Container,4000,20,60,1.8
+T428,Medium Truck,1800,9,35,0.95
+T429,Mini Truck,1200,6,28,0.75
+T430,Heavy Truck,2500,12,45,1.2
+T431,Heavy Truck,2500,12,45,1.2
+T432,Container,4000,20,60,1.8
+T433,Mini Truck,1200,6,28,0.75
+T434,Container,4000,20,60,1.8
+T435,Mini Truck,1200,6,28,0.75
+T436,Mini Truck,1200,6,28,0.75
+T437,Medium Truck,1800,9,35,0.95
+T438,Medium Truck,1800,9,35,0.95
+T439,Heavy Truck,2500,12,45,1.2
+T440,Heavy Truck,2500,12,45,1.2
+T441,Mini Truck,1200,6,28,0.75
+T442,Medium Truck,1800,9,35,0.95
+T443,Mini Truck,1200,6,28,0.75
+T444,Mini Truck,1200,6,28,0.75
+T445,Mini Truck,1200,6,28,0.75
+T446,Mini Truck,1200,6,28,0.75
+T447,Container,4000,20,60,1.8
+T448,Container,4000,20,60,1.8
+T449,Container,4000,20,60,1.8
+T450,Container,4000,20,60,1.8
+T451,Heavy Truck,2500,12,45,1.2
+T452,Medium Truck,1800,9,35,0.95
+T453,Medium Truck,1800,9,35,0.95
+T454,Medium Truck,1800,9,35,0.95
+T455,Heavy Truck,2500,12,45,1.2
+T456,Heavy Truck,2500,12,45,1.2
+T457,Medium Truck,1800,9,35,0.95
+T458,Medium Truck,1800,9,35,0.95
+T459,Container,4000,20,60,1.8
+T460,Mini Truck,1200,6,28,0.75
+T461,Mini Truck,1200,6,28,0.75
+T462,Heavy Truck,2500,12,45,1.2
+T463,Medium Truck,1800,9,35,0.95
+T464,Mini Truck,1200,6,28,0.75
+T465,Medium Truck,1800,9,35,0.95
+T466,Medium Truck,1800,9,35,0.95
+T467,Heavy Truck,2500,12,45,1.2
+T468,Container,4000,20,60,1.8
+T469,Heavy Truck,2500,12,45,1.2
+T470,Medium Truck,1800,9,35,0.95
+T471,Container,4000,20,60,1.8
+T472,Container,4000,20,60,1.8
+T473,Mini Truck,1200,6,28,0.75
+T474,Mini Truck,1200,6,28,0.75
+T475,Container,4000,20,60,1.8
+T476,Mini Truck,1200,6,28,0.75
+T477,Container,4000,20,60,1.8
+T478,Heavy Truck,2500,12,45,1.2
+T479,Mini Truck,1200,6,28,0.75
+T480,Mini Truck,1200,6,28,0.75
+T481,Container,4000,20,60,1.8
+T482,Container,4000,20,60,1.8
+T483,Heavy Truck,2500,12,45,1.2
+T484,Medium Truck,1800,9,35,0.95
+T485,Container,4000,20,60,1.8
+T486,Container,4000,20,60,1.8
+T487,Medium Truck,1800,9,35,0.95
+T488,Container,4000,20,60,1.8
+T489,Container,4000,20,60,1.8
+T490,Medium Truck,1800,9,35,0.95
+T491,Mini Truck,1200,6,28,0.75
+T492,Mini Truck,1200,6,28,0.75
+T493,Medium Truck,1800,9,35,0.95
+T494,Medium Truck,1800,9,35,0.95
+T495,Heavy Truck,2500,12,45,1.2
+T496,Container,4000,20,60,1.8
+T497,Container,4000,20,60,1.8
+T498,Medium Truck,1800,9,35,0.95
+T499,Heavy Truck,2500,12,45,1.2
+T500,Mini Truck,1200,6,28,0.75
+T501,Container,4000,20,60,1.8
+T502,Container,4000,20,60,1.8
+T503,Medium Truck,1800,9,35,0.95
+T504,Mini Truck,1200,6,28,0.75
+T505,Container,4000,20,60,1.8
+T506,Medium Truck,1800,9,35,0.95
+T507,Container,4000,20,60,1.8
+T508,Container,4000,20,60,1.8
+T509,Mini Truck,1200,6,28,0.75
+T510,Heavy Truck,2500,12,45,1.2
+T511,Mini Truck,1200,6,28,0.75
+T512,Mini Truck,1200,6,28,0.75
+T513,Container,4000,20,60,1.8
+T514,Medium Truck,1800,9,35,0.95
+T515,Container,4000,20,60,1.8
+T516,Heavy Truck,2500,12,45,1.2
+T517,Heavy Truck,2500,12,45,1.2
+T518,Mini Truck,1200,6,28,0.75
+T519,Medium Truck,1800,9,35,0.95
+T520,Mini Truck,1200,6,28,0.75
+T521,Container,4000,20,60,1.8
+T522,Mini Truck,1200,6,28,0.75
+T523,Medium Truck,1800,9,35,0.95
+T524,Container,4000,20,60,1.8
+T525,Medium Truck,1800,9,35,0.95
+T526,Mini Truck,1200,6,28,0.75
+T527,Container,4000,20,60,1.8
+T528,Mini Truck,1200,6,28,0.75
+T529,Heavy Truck,2500,12,45,1.2
+T530,Heavy Truck,2500,12,45,1.2
+T531,Container,4000,20,60,1.8
+T532,Heavy Truck,2500,12,45,1.2
+T533,Heavy Truck,2500,12,45,1.2
+T534,Heavy Truck,2500,12,45,1.2
+T535,Medium Truck,1800,9,35,0.95
+T536,Medium Truck,1800,9,35,0.95
+T537,Heavy Truck,2500,12,45,1.2
+T538,Container,4000,20,60,1.8
+T539,Container,4000,20,60,1.8
+T540,Heavy Truck,2500,12,45,1.2
+T541,Container,4000,20,60,1.8
+T542,Medium Truck,1800,9,35,0.95
+T543,Container,4000,20,60,1.8
+T544,Container,4000,20,60,1.8
+T545,Heavy Truck,2500,12,45,1.2
+T546,Heavy Truck,2500,12,45,1.2
+T547,Mini Truck,1200,6,28,0.75
+T548,Heavy Truck,2500,12,45,1.2
+T549,Mini Truck,1200,6,28,0.75
+T550,Mini Truck,1200,6,28,0.75
+T551,Container,4000,20,60,1.8
+T552,Container,4000,20,60,1.8
+T553,Container,4000,20,60,1.8
+T554,Container,4000,20,60,1.8
+T555,Heavy Truck,2500,12,45,1.2
+T556,Container,4000,20,60,1.8
+T557,Container,4000,20,60,1.8
+T558,Heavy Truck,2500,12,45,1.2
+T559,Mini Truck,1200,6,28,0.75
+T560,Medium Truck,1800,9,35,0.95
+T561,Heavy Truck,2500,12,45,1.2
+T562,Heavy Truck,2500,12,45,1.2
+T563,Mini Truck,1200,6,28,0.75
+T564,Container,4000,20,60,1.8
+T565,Medium Truck,1800,9,35,0.95
+T566,Heavy Truck,2500,12,45,1.2
+T567,Mini Truck,1200,6,28,0.75
+T568,Mini Truck,1200,6,28,0.75
+T569,Container,4000,20,60,1.8
+T570,Container,4000,20,60,1.8
+T571,Container,4000,20,60,1.8
+T572,Medium Truck,1800,9,35,0.95
+T573,Medium Truck,1800,9,35,0.95
+T574,Medium Truck,1800,9,35,0.95
+T575,Container,4000,20,60,1.8
+T576,Container,4000,20,60,1.8
+T577,Mini Truck,1200,6,28,0.75
+T578,Container,4000,20,60,1.8
+T579,Medium Truck,1800,9,35,0.95
+T580,Medium Truck,1800,9,35,0.95
+T581,Mini Truck,1200,6,28,0.75
+T582,Container,4000,20,60,1.8
+T583,Mini Truck,1200,6,28,0.75
+T584,Container,4000,20,60,1.8
+T585,Medium Truck,1800,9,35,0.95
+T586,Medium Truck,1800,9,35,0.95
+T587,Heavy Truck,2500,12,45,1.2
+T588,Medium Truck,1800,9,35,0.95
+T589,Medium Truck,1800,9,35,0.95
+T590,Mini Truck,1200,6,28,0.75
+T591,Mini Truck,1200,6,28,0.75
+T592,Mini Truck,1200,6,28,0.75
+T593,Medium Truck,1800,9,35,0.95
+T594,Medium Truck,1800,9,35,0.95
+T595,Container,4000,20,60,1.8
+T596,Heavy Truck,2500,12,45,1.2
+T597,Container,4000,20,60,1.8
+T598,Container,4000,20,60,1.8
+T599,Mini Truck,1200,6,28,0.75
+T600,Heavy Truck,2500,12,45,1.2
+T601,Mini Truck,1200,6,28,0.75
+T602,Heavy Truck,2500,12,45,1.2
+T603,Medium Truck,1800,9,35,0.95
+T604,Mini Truck,1200,6,28,0.75
+T605,Container,4000,20,60,1.8
+T606,Mini Truck,1200,6,28,0.75
+T607,Medium Truck,1800,9,35,0.95
+T608,Heavy Truck,2500,12,45,1.2
+T609,Container,4000,20,60,1.8
+T610,Mini Truck,1200,6,28,0.75
+T611,Mini Truck,1200,6,28,0.75
+T612,Medium Truck,1800,9,35,0.95
+T613,Container,4000,20,60,1.8
+T614,Mini Truck,1200,6,28,0.75
+T615,Medium Truck,1800,9,35,0.95
+T616,Container,4000,20,60,1.8
+T617,Mini Truck,1200,6,28,0.75
+T618,Mini Truck,1200,6,28,0.75
+T619,Container,4000,20,60,1.8
+T620,Heavy Truck,2500,12,45,1.2
+T621,Heavy Truck,2500,12,45,1.2
+T622,Container,4000,20,60,1.8
+T623,Mini Truck,1200,6,28,0.75
+T624,Mini Truck,1200,6,28,0.75
+T625,Mini Truck,1200,6,28,0.75
+T626,Heavy Truck,2500,12,45,1.2
+T627,Heavy Truck,2500,12,45,1.2
+T628,Medium Truck,1800,9,35,0.95
+T629,Medium Truck,1800,9,35,0.95
+T630,Container,4000,20,60,1.8
+T631,Heavy Truck,2500,12,45,1.2
+T632,Medium Truck,1800,9,35,0.95
+T633,Heavy Truck,2500,12,45,1.2
+T634,Mini Truck,1200,6,28,0.75
+T635,Medium Truck,1800,9,35,0.95
+T636,Container,4000,20,60,1.8
+T637,Heavy Truck,2500,12,45,1.2
+T638,Mini Truck,1200,6,28,0.75
+T639,Medium Truck,1800,9,35,0.95
+T640,Medium Truck,1800,9,35,0.95
+T641,Mini Truck,1200,6,28,0.75
+T642,Medium Truck,1800,9,35,0.95
+T643,Medium Truck,1800,9,35,0.95
+T644,Mini Truck,1200,6,28,0.75
+T645,Container,4000,20,60,1.8
+T646,Heavy Truck,2500,12,45,1.2
+T647,Container,4000,20,60,1.8
+T648,Heavy Truck,2500,12,45,1.2
+T649,Heavy Truck,2500,12,45,1.2
+T650,Medium Truck,1800,9,35,0.95
+T651,Medium Truck,1800,9,35,0.95
+T652,Medium Truck,1800,9,35,0.95
+T653,Mini Truck,1200,6,28,0.75
+T654,Container,4000,20,60,1.8
+T655,Mini Truck,1200,6,28,0.75
+T656,Heavy Truck,2500,12,45,1.2
+T657,Medium Truck,1800,9,35,0.95
+T658,Heavy Truck,2500,12,45,1.2
+T659,Mini Truck,1200,6,28,0.75
+T660,Heavy Truck,2500,12,45,1.2
+T661,Mini Truck,1200,6,28,0.75
+T662,Mini Truck,1200,6,28,0.75
+T663,Mini Truck,1200,6,28,0.75
+T664,Container,4000,20,60,1.8
+T665,Heavy Truck,2500,12,45,1.2
+T666,Heavy Truck,2500,12,45,1.2
+T667,Container,4000,20,60,1.8
+T668,Mini Truck,1200,6,28,0.75
+T669,Heavy Truck,2500,12,45,1.2
+T670,Medium Truck,1800,9,35,0.95
+T671,Medium Truck,1800,9,35,0.95
+T672,Heavy Truck,2500,12,45,1.2
+T673,Medium Truck,1800,9,35,0.95
+T674,Mini Truck,1200,6,28,0.75
+T675,Mini Truck,1200,6,28,0.75
+T676,Medium Truck,1800,9,35,0.95
+T677,Container,4000,20,60,1.8
+T678,Mini Truck,1200,6,28,0.75
+T679,Mini Truck,1200,6,28,0.75
+T680,Container,4000,20,60,1.8
+T681,Medium Truck,1800,9,35,0.95
+T682,Heavy Truck,2500,12,45,1.2
+T683,Heavy Truck,2500,12,45,1.2
+T684,Heavy Truck,2500,12,45,1.2
+T685,Container,4000,20,60,1.8
+T686,Mini Truck,1200,6,28,0.75
+T687,Heavy Truck,2500,12,45,1.2
+T688,Container,4000,20,60,1.8
+T689,Heavy Truck,2500,12,45,1.2
+T690,Heavy Truck,2500,12,45,1.2
+T691,Heavy Truck,2500,12,45,1.2
+T692,Heavy Truck,2500,12,45,1.2
+T693,Mini Truck,1200,6,28,0.75
+T694,Mini Truck,1200,6,28,0.75
+T695,Container,4000,20,60,1.8
+T696,Mini Truck,1200,6,28,0.75
+T697,Mini Truck,1200,6,28,0.75
+T698,Heavy Truck,2500,12,45,1.2
+T699,Mini Truck,1200,6,28,0.75
+T700,Mini Truck,1200,6,28,0.75
+T701,Medium Truck,1800,9,35,0.95
+T702,Mini Truck,1200,6,28,0.75
+T703,Medium Truck,1800,9,35,0.95
+T704,Medium Truck,1800,9,35,0.95
+T705,Mini Truck,1200,6,28,0.75
+T706,Mini Truck,1200,6,28,0.75
+T707,Heavy Truck,2500,12,45,1.2
+T708,Heavy Truck,2500,12,45,1.2
+T709,Heavy Truck,2500,12,45,1.2
+T710,Container,4000,20,60,1.8
+T711,Medium Truck,1800,9,35,0.95
+T712,Medium Truck,1800,9,35,0.95
+T713,Heavy Truck,2500,12,45,1.2
+T714,Heavy Truck,2500,12,45,1.2
+T715,Container,4000,20,60,1.8
+T716,Container,4000,20,60,1.8
+T717,Container,4000,20,60,1.8
+T718,Container,4000,20,60,1.8
+T719,Container,4000,20,60,1.8
+T720,Mini Truck,1200,6,28,0.75
+T721,Mini Truck,1200,6,28,0.75
+T722,Heavy Truck,2500,12,45,1.2
+T723,Medium Truck,1800,9,35,0.95
+T724,Container,4000,20,60,1.8
+T725,Mini Truck,1200,6,28,0.75
+T726,Heavy Truck,2500,12,45,1.2
+T727,Container,4000,20,60,1.8
+T728,Mini Truck,1200,6,28,0.75
+T729,Medium Truck,1800,9,35,0.95
+T730,Container,4000,20,60,1.8
+T731,Mini Truck,1200,6,28,0.75
+T732,Medium Truck,1800,9,35,0.95
+T733,Medium Truck,1800,9,35,0.95
+T734,Heavy Truck,2500,12,45,1.2
+T735,Medium Truck,1800,9,35,0.95
+T736,Heavy Truck,2500,12,45,1.2
+T737,Container,4000,20,60,1.8
+T738,Medium Truck,1800,9,35,0.95
+T739,Heavy Truck,2500,12,45,1.2
+T740,Heavy Truck,2500,12,45,1.2
+T741,Mini Truck,1200,6,28,0.75
+T742,Container,4000,20,60,1.8
+T743,Medium Truck,1800,9,35,0.95
+T744,Heavy Truck,2500,12,45,1.2
+T745,Heavy Truck,2500,12,45,1.2
+T746,Medium Truck,1800,9,35,0.95
+T747,Container,4000,20,60,1.8
+T748,Mini Truck,1200,6,28,0.75
+T749,Medium Truck,1800,9,35,0.95
+T750,Mini Truck,1200,6,28,0.75
+T751,Mini Truck,1200,6,28,0.75
+T752,Mini Truck,1200,6,28,0.75
+T753,Heavy Truck,2500,12,45,1.2
+T754,Medium Truck,1800,9,35,0.95
+T755,Heavy Truck,2500,12,45,1.2
+T756,Medium Truck,1800,9,35,0.95
+T757,Heavy Truck,2500,12,45,1.2
+T758,Mini Truck,1200,6,28,0.75
+T759,Container,4000,20,60,1.8
+T760,Heavy Truck,2500,12,45,1.2
+T761,Medium Truck,1800,9,35,0.95
+T762,Mini Truck,1200,6,28,0.75
+T763,Container,4000,20,60,1.8
+T764,Container,4000,20,60,1.8
+T765,Heavy Truck,2500,12,45,1.2
+T766,Mini Truck,1200,6,28,0.75
+T767,Mini Truck,1200,6,28,0.75
+T768,Heavy Truck,2500,12,45,1.2
+T769,Heavy Truck,2500,12,45,1.2
+T770,Medium Truck,1800,9,35,0.95
+T771,Medium Truck,1800,9,35,0.95
+T772,Heavy Truck,2500,12,45,1.2
+T773,Mini Truck,1200,6,28,0.75
+T774,Mini Truck,1200,6,28,0.75
+T775,Medium Truck,1800,9,35,0.95
+T776,Medium Truck,1800,9,35,0.95
+T777,Mini Truck,1200,6,28,0.75
+T778,Mini Truck,1200,6,28,0.75
+T779,Heavy Truck,2500,12,45,1.2
+T780,Heavy Truck,2500,12,45,1.2
+T781,Container,4000,20,60,1.8
+T782,Medium Truck,1800,9,35,0.95
+T783,Medium Truck,1800,9,35,0.95
+T784,Mini Truck,1200,6,28,0.75
+T785,Medium Truck,1800,9,35,0.95
+T786,Heavy Truck,2500,12,45,1.2
+T787,Mini Truck,1200,6,28,0.75
+T788,Heavy Truck,2500,12,45,1.2
+T789,Container,4000,20,60,1.8
+T790,Mini Truck,1200,6,28,0.75
+T791,Heavy Truck,2500,12,45,1.2
+T792,Medium Truck,1800,9,35,0.95
+T793,Mini Truck,1200,6,28,0.75
+T794,Container,4000,20,60,1.8
+T795,Heavy Truck,2500,12,45,1.2
+T796,Heavy Truck,2500,12,45,1.2
+T797,Medium Truck,1800,9,35,0.95
+T798,Mini Truck,1200,6,28,0.75
+T799,Medium Truck,1800,9,35,0.95
+T800,Medium Truck,1800,9,35,0.95
+T801,Mini Truck,1200,6,28,0.75
+T802,Medium Truck,1800,9,35,0.95
+T803,Heavy Truck,2500,12,45,1.2
+T804,Medium Truck,1800,9,35,0.95
+T805,Container,4000,20,60,1.8
+T806,Mini Truck,1200,6,28,0.75
+T807,Heavy Truck,2500,12,45,1.2
+T808,Medium Truck,1800,9,35,0.95
+T809,Mini Truck,1200,6,28,0.75
+T810,Medium Truck,1800,9,35,0.95
+T811,Mini Truck,1200,6,28,0.75
+T812,Container,4000,20,60,1.8
+T813,Heavy Truck,2500,12,45,1.2
+T814,Heavy Truck,2500,12,45,1.2
+T815,Medium Truck,1800,9,35,0.95
+T816,Heavy Truck,2500,12,45,1.2
+T817,Medium Truck,1800,9,35,0.95
+T818,Heavy Truck,2500,12,45,1.2
+T819,Container,4000,20,60,1.8
+T820,Heavy Truck,2500,12,45,1.2
+T821,Medium Truck,1800,9,35,0.95
+T822,Container,4000,20,60,1.8
+T823,Medium Truck,1800,9,35,0.95
+T824,Heavy Truck,2500,12,45,1.2
+T825,Mini Truck,1200,6,28,0.75
+T826,Mini Truck,1200,6,28,0.75
+T827,Medium Truck,1800,9,35,0.95
+T828,Container,4000,20,60,1.8
+T829,Mini Truck,1200,6,28,0.75
+T830,Mini Truck,1200,6,28,0.75
+T831,Heavy Truck,2500,12,45,1.2
+T832,Medium Truck,1800,9,35,0.95
+T833,Container,4000,20,60,1.8
+T834,Mini Truck,1200,6,28,0.75
+T835,Mini Truck,1200,6,28,0.75
+T836,Medium Truck,1800,9,35,0.95
+T837,Container,4000,20,60,1.8
+T838,Heavy Truck,2500,12,45,1.2
+T839,Medium Truck,1800,9,35,0.95
+T840,Mini Truck,1200,6,28,0.75
+T841,Container,4000,20,60,1.8
+T842,Mini Truck,1200,6,28,0.75
+T843,Heavy Truck,2500,12,45,1.2
+T844,Container,4000,20,60,1.8
+T845,Medium Truck,1800,9,35,0.95
+T846,Medium Truck,1800,9,35,0.95
+T847,Heavy Truck,2500,12,45,1.2
+T848,Heavy Truck,2500,12,45,1.2
+T849,Medium Truck,1800,9,35,0.95
+T850,Medium Truck,1800,9,35,0.95
+T851,Mini Truck,1200,6,28,0.75
+T852,Container,4000,20,60,1.8
+T853,Heavy Truck,2500,12,45,1.2
+T854,Heavy Truck,2500,12,45,1.2
+T855,Mini Truck,1200,6,28,0.75
+T856,Heavy Truck,2500,12,45,1.2
+T857,Mini Truck,1200,6,28,0.75
+T858,Medium Truck,1800,9,35,0.95
+T859,Heavy Truck,2500,12,45,1.2
+T860,Medium Truck,1800,9,35,0.95
+T861,Mini Truck,1200,6,28,0.75
+T862,Mini Truck,1200,6,28,0.75
+T863,Heavy Truck,2500,12,45,1.2
+T864,Medium Truck,1800,9,35,0.95
+T865,Heavy Truck,2500,12,45,1.2
+T866,Mini Truck,1200,6,28,0.75
+T867,Container,4000,20,60,1.8
+T868,Mini Truck,1200,6,28,0.75
+T869,Heavy Truck,2500,12,45,1.2
+T870,Container,4000,20,60,1.8
+T871,Medium Truck,1800,9,35,0.95
+T872,Container,4000,20,60,1.8
+T873,Medium Truck,1800,9,35,0.95
+T874,Medium Truck,1800,9,35,0.95
+T875,Mini Truck,1200,6,28,0.75
+T876,Medium Truck,1800,9,35,0.95
+T877,Heavy Truck,2500,12,45,1.2
+T878,Medium Truck,1800,9,35,0.95
+T879,Container,4000,20,60,1.8
+T880,Container,4000,20,60,1.8
+T881,Container,4000,20,60,1.8
+T882,Heavy Truck,2500,12,45,1.2
+T883,Container,4000,20,60,1.8
+T884,Mini Truck,1200,6,28,0.75
+T885,Container,4000,20,60,1.8
+T886,Container,4000,20,60,1.8
+T887,Heavy Truck,2500,12,45,1.2
+T888,Container,4000,20,60,1.8
+T889,Medium Truck,1800,9,35,0.95
+T890,Heavy Truck,2500,12,45,1.2
+T891,Container,4000,20,60,1.8
+T892,Mini Truck,1200,6,28,0.75
+T893,Heavy Truck,2500,12,45,1.2
+T894,Heavy Truck,2500,12,45,1.2
+T895,Medium Truck,1800,9,35,0.95
+T896,Mini Truck,1200,6,28,0.75
+T897,Medium Truck,1800,9,35,0.95
+T898,Container,4000,20,60,1.8
+T899,Heavy Truck,2500,12,45,1.2
+T900,Medium Truck,1800,9,35,0.95
+T901,Mini Truck,1200,6,28,0.75
+T902,Medium Truck,1800,9,35,0.95
+T903,Medium Truck,1800,9,35,0.95
+T904,Medium Truck,1800,9,35,0.95
+T905,Heavy Truck,2500,12,45,1.2
+T906,Mini Truck,1200,6,28,0.75
+T907,Heavy Truck,2500,12,45,1.2
+T908,Container,4000,20,60,1.8
+T909,Mini Truck,1200,6,28,0.75
+T910,Medium Truck,1800,9,35,0.95
+T911,Mini Truck,1200,6,28,0.75
+T912,Heavy Truck,2500,12,45,1.2
+T913,Medium Truck,1800,9,35,0.95
+T914,Medium Truck,1800,9,35,0.95
+T915,Medium Truck,1800,9,35,0.95
+T916,Heavy Truck,2500,12,45,1.2
+T917,Mini Truck,1200,6,28,0.75
+T918,Mini Truck,1200,6,28,0.75
+T919,Heavy Truck,2500,12,45,1.2
+T920,Mini Truck,1200,6,28,0.75
+T921,Mini Truck,1200,6,28,0.75
+T922,Mini Truck,1200,6,28,0.75
+T923,Container,4000,20,60,1.8
+T924,Heavy Truck,2500,12,45,1.2
+T925,Container,4000,20,60,1.8
+T926,Heavy Truck,2500,12,45,1.2
+T927,Container,4000,20,60,1.8
+T928,Mini Truck,1200,6,28,0.75
+T929,Container,4000,20,60,1.8
+T930,Container,4000,20,60,1.8
+T931,Heavy Truck,2500,12,45,1.2
+T932,Medium Truck,1800,9,35,0.95
+T933,Heavy Truck,2500,12,45,1.2
+T934,Heavy Truck,2500,12,45,1.2
+T935,Heavy Truck,2500,12,45,1.2
+T936,Medium Truck,1800,9,35,0.95
+T937,Medium Truck,1800,9,35,0.95
+T938,Container,4000,20,60,1.8
+T939,Mini Truck,1200,6,28,0.75
+T940,Medium Truck,1800,9,35,0.95
+T941,Mini Truck,1200,6,28,0.75
+T942,Heavy Truck,2500,12,45,1.2
+T943,Container,4000,20,60,1.8
+T944,Heavy Truck,2500,12,45,1.2
+T945,Mini Truck,1200,6,28,0.75
+T946,Heavy Truck,2500,12,45,1.2
+T947,Medium Truck,1800,9,35,0.95
+T948,Container,4000,20,60,1.8
+T949,Container,4000,20,60,1.8
+T950,Container,4000,20,60,1.8
+T951,Medium Truck,1800,9,35,0.95
+T952,Heavy Truck,2500,12,45,1.2
+T953,Container,4000,20,60,1.8
+T954,Medium Truck,1800,9,35,0.95
+T955,Container,4000,20,60,1.8
+T956,Container,4000,20,60,1.8
+T957,Medium Truck,1800,9,35,0.95
+T958,Mini Truck,1200,6,28,0.75
+T959,Mini Truck,1200,6,28,0.75
+T960,Container,4000,20,60,1.8
+T961,Medium Truck,1800,9,35,0.95
+T962,Medium Truck,1800,9,35,0.95
+T963,Heavy Truck,2500,12,45,1.2
+T964,Heavy Truck,2500,12,45,1.2
+T965,Heavy Truck,2500,12,45,1.2
+T966,Medium Truck,1800,9,35,0.95
+T967,Container,4000,20,60,1.8
+T968,Heavy Truck,2500,12,45,1.2
+T969,Mini Truck,1200,6,28,0.75
+T970,Mini Truck,1200,6,28,0.75
+T971,Medium Truck,1800,9,35,0.95
+T972,Container,4000,20,60,1.8
+T973,Heavy Truck,2500,12,45,1.2
+T974,Mini Truck,1200,6,28,0.75
+T975,Container,4000,20,60,1.8
+T976,Mini Truck,1200,6,28,0.75
+T977,Heavy Truck,2500,12,45,1.2
+T978,Medium Truck,1800,9,35,0.95
+T979,Container,4000,20,60,1.8
+T980,Heavy Truck,2500,12,45,1.2
+T981,Medium Truck,1800,9,35,0.95
+T982,Container,4000,20,60,1.8
+T983,Medium Truck,1800,9,35,0.95
+T984,Medium Truck,1800,9,35,0.95
+T985,Mini Truck,1200,6,28,0.75
+T986,Container,4000,20,60,1.8
+T987,Container,4000,20,60,1.8
+T988,Medium Truck,1800,9,35,0.95
+T989,Mini Truck,1200,6,28,0.75
+T990,Heavy Truck,2500,12,45,1.2
+T991,Mini Truck,1200,6,28,0.75
+T992,Container,4000,20,60,1.8
+T993,Heavy Truck,2500,12,45,1.2
+T994,Mini Truck,1200,6,28,0.75
+T995,Heavy Truck,2500,12,45,1.2
+T996,Container,4000,20,60,1.8
+T997,Container,4000,20,60,1.8
+T998,Heavy Truck,2500,12,45,1.2
+T999,Medium Truck,1800,9,35,0.95
+T1000,Heavy Truck,2500,12,45,1.2
