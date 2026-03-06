@@ -8,45 +8,45 @@ st.set_page_config(page_title="LoRRI Load Optimization Engine", layout="wide")
 
 st.title("🚚 LoRRI – AI Load Consolidation Optimization Engine")
 
-# ------------------------
+# -------------------------
 # Load Data
-# ------------------------
+# -------------------------
 
-shipments = pd.read_csv("data/shipments.csv")
-fleet = pd.read_csv("data/fleet.csv")
-routes = pd.read_csv("data/routes.csv")
+shipments = pd.read_csv("shipments.csv")
+fleet = pd.read_csv("fleet.csv")
+routes = pd.read_csv("routes.csv")
 
-# ------------------------
+# -------------------------
 # Executive Metrics
-# ------------------------
+# -------------------------
 
 st.subheader("Executive Overview")
 
-col1,col2,col3 = st.columns(3)
+c1,c2,c3 = st.columns(3)
 
-col1.metric("Shipments",len(shipments))
-col2.metric("Fleet",len(fleet))
-col3.metric("Routes",len(routes))
+c1.metric("Total Shipments",len(shipments))
+c2.metric("Fleet Size",len(fleet))
+c3.metric("Routes",len(routes))
 
 st.divider()
 
-# ------------------------
+# -------------------------
 # Shipment Distribution
-# ------------------------
+# -------------------------
 
-st.subheader("Logistics Network Overview")
+st.subheader("Shipment Distribution")
 
 fig = px.histogram(
     shipments,
     x="destination",
-    title="Shipment Distribution by Destination"
+    title="Shipments per Destination"
 )
 
 st.plotly_chart(fig,use_container_width=True)
 
-# ------------------------
+# -------------------------
 # AI Clustering
-# ------------------------
+# -------------------------
 
 def run_clustering(df):
 
@@ -58,10 +58,9 @@ def run_clustering(df):
 
     return df
 
-
-# ------------------------
-# Compatibility Scoring
-# ------------------------
+# -------------------------
+# Compatibility Score
+# -------------------------
 
 def compatibility(row):
 
@@ -73,10 +72,9 @@ def compatibility(row):
 
     return round(score,2)
 
-
-# ------------------------
-# Truck Allocation (Prototype)
-# ------------------------
+# -------------------------
+# Truck Allocation
+# -------------------------
 
 def allocate_trucks(shipments,fleet):
 
@@ -96,51 +94,50 @@ def allocate_trucks(shipments,fleet):
 
     return pd.DataFrame(assignments)
 
-
-# ------------------------
+# -------------------------
 # Run Optimization
-# ------------------------
+# -------------------------
 
 if st.button("Run AI Optimization"):
 
-    st.subheader("AI Clustering")
+    st.subheader("AI Shipment Clustering")
 
-    shipments = run_clustering(shipments)
+    shipments_clustered = run_clustering(shipments)
 
-    fig = px.scatter(
-        shipments,
+    cluster_fig = px.scatter(
+        shipments_clustered,
         x="destination_lat",
         y="destination_lon",
         color="cluster",
         title="Geo-Spatial Shipment Clusters"
     )
 
-    st.plotly_chart(fig,use_container_width=True)
+    st.plotly_chart(cluster_fig,use_container_width=True)
 
     st.subheader("Compatibility Analysis")
 
-    shipments["compatibility"] = shipments.apply(
+    shipments_clustered["compatibility"] = shipments_clustered.apply(
         compatibility,
         axis=1
     )
 
-    fig = px.histogram(
-        shipments,
+    score_fig = px.histogram(
+        shipments_clustered,
         x="compatibility",
         title="Compatibility Score Distribution"
     )
 
-    st.plotly_chart(fig,use_container_width=True)
+    st.plotly_chart(score_fig,use_container_width=True)
 
     st.subheader("Truck Allocation")
 
-    allocation = allocate_trucks(shipments,fleet)
+    allocation = allocate_trucks(shipments_clustered,fleet)
 
     st.dataframe(allocation.head())
 
-    # ------------------------
-    # Impact Metrics
-    # ------------------------
+    # -------------------------
+    # Optimization Metrics
+    # -------------------------
 
     baseline_trips = len(shipments)
     optimized_trips = allocation["truck"].nunique()
@@ -163,13 +160,13 @@ if st.button("Run AI Optimization"):
         "Trips":[baseline_trips,optimized_trips]
     })
 
-    fig = px.bar(
+    impact_fig = px.bar(
         impact,
         x="Scenario",
         y="Trips",
         title="Baseline vs Optimized Trips"
     )
 
-    st.plotly_chart(fig,use_container_width=True)
+    st.plotly_chart(impact_fig,use_container_width=True)
 
-    st.success("AI Optimization Completed")
+    st.success("Optimization Completed Successfully")
